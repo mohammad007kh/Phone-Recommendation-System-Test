@@ -21,18 +21,14 @@ This notebook demonstrates a machine learning project to build a phone recommend
 To get started with this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Phone-Recommendation-System.git
+git clone https://github.com/mohammad007kh/Phone-Recommendation-System.git
 cd Phone-Recommendation-System
 pip install -r requirements.txt
 ```
 
-## Usage
-
-Each project is contained within its own directory. Navigate to the project directory and follow the instructions in the respective README files to run the project.
-
 ## Contributing
 
-Contributions are welcome!
+Contributions are welcome! Please note that this project is still a work in progress and may not provide the expected outputs yet. Feel free to open an issue or submit a pull request.
 
 ## License
 
